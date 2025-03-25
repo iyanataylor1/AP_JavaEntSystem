@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://logging.apache.org/xml/ns/log4j-config-2.xsd" uri="logging.apache.org/xml/ns/log4j-config-2.xsd"/>
+</catalog>
