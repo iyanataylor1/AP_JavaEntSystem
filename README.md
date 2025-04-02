@@ -1,5 +1,4 @@
-# AP_JavaEntSystem
-Java Entertainment Equipment Booking System
+# Java Entertainment Equipment Booking System
 Advanced Programming group project 
 
 This project involves creating an Event Scheduling System for Java Entertainment, a
